@@ -1,3 +1,4 @@
+
 alias neal='ne ~/.bash_aliases && source ~/.bash_aliases'
 alias screen='screen -h 0'
 alias sx='screen -x'
